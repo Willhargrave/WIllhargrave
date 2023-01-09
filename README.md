@@ -2,8 +2,7 @@
 Ruby-On-Rails full-stack developer
 - 🔭 I’m currently working on Japan Landmarks, a website to add landmarks to every area in Japan
 - 🌱 I’m currently learning Javascript & React
-- 👯 I’m looking to collaborate on open-sourced Ruby on Tails projects
-- 🤔 I’m looking for help with Javascript & React!
+- 👯 I’m looking to collaborate on open-sourced Ruby on Rails projects
 - 📫 How to reach me: willhargrave52@gmail.com
 <!--
 **Willhargrave/WIllhargrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
