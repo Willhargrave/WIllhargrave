@@ -3,9 +3,6 @@
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Will Hargrave: a full-stack engineer in Tokyo</h1>
  ---
-- 🔭 I’m currently working on **React Quiz Maker App**
-
-- 🌱 I’m currently learning **React**
 
 - 👨‍💻 Some of my best projects are available at my [Porfolio](https://willhargrave.github.io/porfolio/)
 
