@@ -3,9 +3,9 @@
 </div>
 <h1 align="center">Will Hargrave: Full-Stack Engineer in Tokyo</h1>
 
-- 👨‍💻 Some of my best projects are available at my [Porfolio](https://will-hargrave-portfolio.vercel.app/en)
+- 👨‍💻 Check out my [Porfolio](https://will-hargrave-portfolio.vercel.app/en) of completed projects, check out the rest of Github for uncompleted half-projects and strange 2AM ideas 
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/will-r-hargrave/">
+- 📫 Reach out on <a href="https://www.linkedin.com/in/will-r-hargrave/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
