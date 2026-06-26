@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/1NYkJ0wTvncdXV5dN5/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Will Hargrave: a full-stack engineer in Tokyo</h1>
- ---
 
 - 👨‍💻 Some of my best projects are available at my [Porfolio](https://will-hargrave-portfolio.vercel.app/en)
 
