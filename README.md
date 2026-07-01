@@ -11,12 +11,9 @@
 - 👨‍💻 Check out my [Portfolio](https://will-hargrave-portfolio.vercel.app/en) of completed projects. Check out the rest of GitHub for unfinished half-projects and strange 2 AM ideas.
 
 - 📫 Reach out on
-  <a href="https://www.linkedin.com/in/will-r-hargrave/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+  <p href="https://www.linkedin.com/in/will-r-hargrave/">
+    Linkedin
+  </p>
 
 <h3 align="left">Languages and Tools I've Used Professionally:</h3>
 
